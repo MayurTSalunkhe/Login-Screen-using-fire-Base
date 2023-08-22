@@ -36,7 +36,7 @@ public class Login_page extends AppCompatActivity {
             Intent i= new Intent(getApplicationContext(),MainActivity.class);
             startActivity(i);
             finish();
-
+            //check
         }
     }
     @Override
