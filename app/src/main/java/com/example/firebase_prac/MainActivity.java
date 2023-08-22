@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
                     Intent i= new Intent(getApplicationContext(),Login_page.class);
                      startActivity(i);
                     finish();
-
+                //text listener method and
                 }
             });
         }
