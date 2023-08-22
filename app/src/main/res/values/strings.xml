@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firebase_prac</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="click_here_if_you_have_nt_already_registered">click here if you have\'nt already registered</string>
+</resources>
